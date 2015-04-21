@@ -1,2 +1,2 @@
 # pivotaltracker-scripts
-A repo for storing Python scripts for managing pivotal tracker projects
+A Collection of Python scripts for managing the [pivotal-tracker](https://www.pivotaltracker.com) projects.
